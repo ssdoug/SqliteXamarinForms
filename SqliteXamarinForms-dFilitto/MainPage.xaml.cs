@@ -18,4 +18,8 @@ namespace SqliteXamarinForms_dFilitto
             InitializeComponent();
         }
     }
+
+
+    // teste de push in Github 11:48
+
 }
