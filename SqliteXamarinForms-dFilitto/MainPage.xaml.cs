@@ -19,5 +19,6 @@ namespace SqliteXamarinForms_dFilitto
         }
     }
 
+    // incluir novas funcionalidades
 
 }
