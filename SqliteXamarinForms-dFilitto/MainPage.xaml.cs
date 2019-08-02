@@ -20,6 +20,4 @@ namespace SqliteXamarinForms_dFilitto
     }
 
 
-    // teste de push in Github 11:48
-
 }
